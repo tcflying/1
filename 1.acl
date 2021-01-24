@@ -1540,6 +1540,8 @@
 (^|\.)update\.googleapis\.com$
 (^|\.)www-googletagmanager\.l\.google\.com$
 (^|\.)www\.gstatic\.com$
+(^|\.)en\.ipip\.net$
+(^|\.)ip138\.com$
 
 # Router managed 路由器管理域名
 (^|\.)hiwifi\.com$
